@@ -50,9 +50,26 @@ The dashboard will incorporate visualizations to help better understand product 
    - Open with Tableau Desktop
    - The packaged workbook should include already cleaned data from the original source.
 
+5. **About the Tableau workbook**
+   - There are color coded worksheets. These colors represent who created the visualization
+      - Blue = Kainen Osborne
+      - Purple = Bea Sauve
+      - Yellow = Elton Nichols
+   - There are dashboards with accumulated visualizations that give us our company insights
+   - To display the accumulated project select the "Sales Tracker Story" Story Board, and select the present button
+      - The story board is interactable, you can hover your mouse above elements to view greater details, and select certain portions of data to highlight that specific element.
+
 ## Team Information
 See `CONTRIBUTING.md` for detailed breakdown of team member responsibilities.
 
 ## AI Usage
 See `AI.md` for documentation of AI tools used in this project.
 
+
+## Authors
+
+| Name            | Role(s)                                   | Username         |
+|-----------------|-------------------------------------------|------------------|
+| Bea Sauve       | Code Developer, Project Manager          | bunnybea83       |
+| Elton Nichols   | Code Developer, Version Control Manager            | oi12bu           |
+| Kainen Osborne  | Code Developer, Analysis Auditor Manager    | kosborne00       |
