@@ -28,25 +28,28 @@ Version Control Manager (Elton Nichols): Ensures version control methods are use
 Data refinement includes but isnt limited to updating client phone numbers, modifying empty columns, and verifying addresses, and developing code to preform data refinement.
 
 ### Contributors to data refinement:
-* name
-* name
+
+* Elton Nichols
 
 ## Data Visualization and Forcasting:
 
 Data visualization includes the accumulation of data into visualization charts to preform analysis on.
 
-* Bar Chart:
-* Line Chart: 
-* Scatter Plot:
-* Box and Whisker Plot:
-* Histogram: 
-* Heat Map:
-* Map Visualization:
-* Sales Tracker Dashboard:
+* Bar Chart: Bea
+* Line Chart: Bea
+* Scatter Plot: Bea
+* Box and Whisker Plot: Elton
+* Histogram: Elton
+* Tree Map: Kainen
+* Heat Map: Kainen
+* Map Visualization: Elton
+* Sales Tracker Dashboard: Bea
 
 ## Additional Contributions:
-* Ai.md:
+
+* Ai.md: Bea, Elton, Kainen
 * Contributions.md: Bea 
-* ReadMe.md:
+* ReadMe.md: Kainen
 * Repository Management: Bea (Assembly), Elton(version control)
-* Data Project Template: Bea (design, implementation, analysis), Kainen (Data Dictionary, and Analysis), Elton (Analysis)
+* Data Project Template: Bea (Design, Implementation, Analysis), Kainen (Data Dictionary, and Analysis), Elton (Analysis, Data Refinement)
+
