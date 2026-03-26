@@ -1,7 +1,7 @@
 # International sales marketing strategy
 
 ## Project Overview
-This repository contains a tablea dashboard developed to create several visualizations to create effective global marketing strategies. It will analyze historical trends, product populatiry, and regional performance and preferences.
+This repository contains a Tableau dashboard developed to create several visualizations to understand effective global marketing strategies. It will analyze historical trends, product populatiry, and regional performance and preferences.
 
 
 ## Repository Purpose
@@ -72,5 +72,4 @@ See `AI.md` for documentation of AI tools used in this project.
 |-----------------|-------------------------------------------|------------------|
 | Bea Sauve       | Code Developer, Project Manager          | bunnybea83       |
 | Elton Nichols   | Code Developer, Version Control Manager            | oi12bu           |
-
 | Kainen Osborne  | Code Developer, Analysis Auditor Manager    | kosborne00       |
