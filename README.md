@@ -3,6 +3,12 @@
 ## Project Overview
 This repository contains a Tableau dashboard developed to create several visualizations to understand effective global marketing strategies. It will analyze historical trends, product populatiry, and regional performance and preferences.
 
+Course: Data Analytics in Business CSB304   
+Project #: 1   
+Intructor: Eric LLoyd   
+Authors: [Authors](#authors)   
+ 
+---
 
 ## Repository Purpose
 This repository contains
