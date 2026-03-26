@@ -13,11 +13,32 @@ This repository contains
 - Team contributions
 - AI usage documentation
 
+---
+
 ## Business Objective:
 Use data insights to create effective targeted marketing strategies for different global regions based on historical sales trends including sales volume and type of product.
 
+---
+
 ## Expected Uses:
 The dashboard will incorporate visualizations to help better understand product popularity and sales trendlines. The interactive nature of the dashboard will allow for filtering of sales numbers by product category, geographical region, cancellations of orders, and other pertinent factors.
+---
+
+## Repository Structure
+
+```
+Project_3_Analysis_Profit_Forecasting/
+├── Data/
+│   ├── sales_data_sample.csv               # Original dataset containing company sales data (2003-2005)
+│   └── sales_data_sample_cleaned.csv       # Cleaned version of original Dataset
+├── Project_Report.pdf                      # Main technical report documenting project set up and findings
+├── TeamLime_Sales_Tracking_Dashboard.twbx  # Tableau Notebook containing visualizations and presentation dashboard
+├── README.md                               # Project overview (this file)
+├── CONTRIBUTING.md                         # Contribution guidelines and team roles
+└── AI.md                                   # AI usage transparency log
+```
+
+---
 
 ## How to use this Repository
 
